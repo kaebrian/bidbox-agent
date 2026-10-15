@@ -4,7 +4,7 @@ An agentic AI that helps a tender evaluation committee check prices against Keny
 
 Built for the **African Agentic AI Design Challenge — Governance track (The Bid Box Challenge), theme: Value for money.**
 
-![BidBox architecture](docs/architecture.png)
+   ![BidBox architecture](architecture%20diag.png)
 
 ## Problem statement
 
